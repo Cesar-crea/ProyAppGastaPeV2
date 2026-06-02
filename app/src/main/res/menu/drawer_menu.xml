@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_inicio"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/nav_gastos"
+        android:title="Mis Gatos"/>
+
+    <item
+        android:id="@+id/nav_categorias"
+        android:title="Categorías"/>
+
+
+
+    <item
+        android:id="@+id/nav_estadistica"
+        android:title="Estadisticas"/>
+
+    <item
+        android:id="@+id/nav_presupuestos"
+        android:title="Presupuesto"/>
+
+    <item
+        android:id="@+id/nav_recordatorios"
+        android:title="Recordatorios"/>
+
+</menu>

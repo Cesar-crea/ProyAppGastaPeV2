@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itInicio"
+        android:title="Inicio"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itGasto"
+        android:title="Mis gastos"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itCategoria"
+        android:title="Categoria"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itEstadistica"
+        android:title="Estadisticas"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itPresupuesto"
+        android:title="Presupuestos"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itRecordatorio"
+        android:title="Recordatorios"
+        android:icon="@drawable/otros"/>
+
+    <item
+        android:id="@+id/itCerrar"
+        android:title="Cerrar Sesion"
+        android:icon="@drawable/otros"/>
+
+</menu>
